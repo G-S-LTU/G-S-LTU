@@ -2,7 +2,7 @@
 
 My name is Gurprit (He/Him), and I'm a PMP-certified industry professional with over 12 years of combined experience across **Business Intelligence, Business Support and Performance Reporting**. I’m passionate about everything related to data ♥️  and my personal aspiration is to help solve business problems through data-driven decisions.
 
-[![power-bi-96](https://github.com/user-attachments/assets/e60875ad-ee83-48ad-8f2e-68eca2ae8fea "Proficient in Tableau")][1]
+[![power-bi-96](https://github.com/user-attachments/assets/e60875ad-ee83-48ad-8f2e-68eca2ae8fea "Proficient in Power BI")][1]
 [![tableau-software-96](https://github.com/user-attachments/assets/f597f4b7-3aca-4f0b-86cd-b7e7c914cb04 "Proficient in Tableau")][2]
 [![microstrategy-96](https://github.com/user-attachments/assets/f9b5aeec-c1e8-43f7-8d4b-86bb01a89605 "Proficient in MicroStrategy")][3]
 [![PMP-96](https://github.com/user-attachments/assets/20901846-0149-406c-87f9-f05acb4e4dec "Project Management Professional")][4]
