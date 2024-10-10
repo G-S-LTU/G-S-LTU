@@ -62,6 +62,9 @@ Education:
 [3]: https://www.microstrategy.com/
 [4]: https://yarratrams.com.au/
 
+
+![Snake animation](https://github.com/G-S-LTU/G-S-LTU/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **G-S-LTU/G-S-LTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
