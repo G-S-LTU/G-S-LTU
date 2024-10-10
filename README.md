@@ -63,7 +63,8 @@ Education:
 [4]: https://yarratrams.com.au/
 
 
-![Snake animation](https://github.com/G-S-LTU/G-S-LTU/blob/output/github-contribution-grid-snake.svg)
+![image](https://github.com/user-attachments/assets/5f4e949d-3367-4095-a136-1a0ff0412477)
+
 
 <!--
 **G-S-LTU/G-S-LTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
