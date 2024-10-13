@@ -2,7 +2,9 @@
 
 My name is Gurprit (He/Him), and I'm a PMP-certified industry professional with over 12 years of combined experience across **Business Intelligence, Business Support and Performance Reporting**. I’m passionate about everything related to data ♥️  and my personal aspiration is to help solve business problems through data-driven decisions.
 
-[![power-bi-96](https://github.com/user-attachments/assets/e60875ad-ee83-48ad-8f2e-68eca2ae8fea "Proficient in Power BI")][1]
+[<img src="https://github.com/G-S-LTU/G-S-LTU/blob/main/Icons/power-bi-96.png" width="48" alt="Proficient in Power BI" />][1]
+
+[![power-bi-96](https://github.com/user-attachments/assets/e60875ad-ee83-48ad-8f2e-68eca2ae8fea "Proficient in Power BI")][99]
 [![tableau-software-96](https://github.com/user-attachments/assets/f597f4b7-3aca-4f0b-86cd-b7e7c914cb04 "Proficient in Tableau")][2]
 [![microstrategy-96](https://github.com/user-attachments/assets/f9b5aeec-c1e8-43f7-8d4b-86bb01a89605 "Proficient in MicroStrategy")][3]
 [![PMP-96](https://github.com/user-attachments/assets/20901846-0149-406c-87f9-f05acb4e4dec "Project Management Professional")][4]
@@ -12,27 +14,25 @@ My name is Gurprit (He/Him), and I'm a PMP-certified industry professional with 
 
 ### **Experience**  
 
-[<img src="https://github.com/G-S-LTU/G-S-LTU/blob/main/YarraTrams-96.png" width="48" alt="Yarra Trams">][7]
+[<img src="https://github.com/G-S-LTU/G-S-LTU/blob/main/Icons/YarraTrams-96.png" width="48" alt="Yarra Trams" />][7]
   Yarra Trams - Melbourne 🇦🇺
  > Jun 2023 – Present   
  > **Manager for Analytics & Insights – Network Performance**   
- > Leading team of analysts to drive, deploy and support analytics projects in Yarra Trams with focus on Operational efficiencies.  
+ > Leading team of analysts to drive, deploy and support analytics projects in Yarra Trams with focus on operational efficiencies.  
  >
  > Nov 2022 – May 2023  
  > **Advisor – Network Performance**  
- > Led analytics projects and specific data analysis tasks, including providing data-driven insights to bespoke business questions from senior executives using appropriate tools (reports or dashboards) by leveraging inhouse and external data sources.
+ > Responsibilies included providing data-driven insights to business questions from senior executives using appropriate tools by leveraging inhouse and external data sources.
  >
  > Nov 2021 – Nov 2022  
- > $${\color{white} \text{Acting Manager – Network Performance}}$$
- > $${\color{white} Acting Manager – Network Performance }$$
+
  > **Acting Manager – Network Performance**  
  > Managed operational compliance to Franchise Agreement and Business Plan and reporting of operational performance.
  >
  > Dec 2019 – Nov 2021  
  > **Advisor – Network Performance**   
   
-  
-[<img src="https://github.com/G-S-LTU/G-S-LTU/blob/main/emirates-airlines1768.jpg" width="48" alt="Emirates">][8]
+[<img src="https://github.com/G-S-LTU/G-S-LTU/blob/main/Icons/emirates-airlines1768.jpg" width="48" alt="Emirates">][8]
  Emirates Airline  
  > **Analytics Manager – Enterprise Analytics**  
  > **Emirates (Oct 2017 – Feb 2019)**  
@@ -58,9 +58,12 @@ Education:
 [1]: https://www.microsoft.com/en-us/power-platform/products/power-bi
 [2]: https://www.tableau.com/
 [3]: https://www.microstrategy.com/
-[4]: https://www.ibcs.com/
-[5]: https://yarratrams.com.au/
-[6]: https://www.pmi.org/
+[4]: https://www.pmi.org/
+[5]: https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification
+[6]: https://www.ibcs.com/
+[7]: https://yarratrams.com.au/
+[8]: https://www.emirates.com/au/english/
+
 
 
 ![image](https://github.com/user-attachments/assets/5f4e949d-3367-4095-a136-1a0ff0412477)
