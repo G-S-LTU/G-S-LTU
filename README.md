@@ -45,10 +45,7 @@ My name is Gurprit (He/Him), and I'm a PMP-certified industry professional with 
  > 
  > **${\textsf {\color{white}Mar 2008 – Jun 2013}}$**  
  > **${\textsf {\color{white}Revenue System Analyst – Revenue Optimization}}$**  
- > Served as business lead of key decision support system (used by 1,500+ sales users) to measure and analyse their performance. Managed forecast quality and performance across 3 commercial regions; enhanced forecast accuracy by 2% on significant Point of Sale/O&Ds leading to annual USD 100m improvement in revenue forecast. Also engaged in conceptualization, development and implementation of an in-house yield forecasting system which prorates tickets on near real-time basis and is used to analyse revenue KPIs - a first for the company.  
- > 
-Education:
-[<img src="https://github.com/G-S-LTU/G-S-LTU/blob/main/Icons/bitspilani-96.png" width="48" title="BITS Pilani" />][6]
+ > Served as business lead of key decision support system (used by 1,500+ sales users) to measure and analyse their performance. Managed forecast quality and performance across 3 commercial regions; enhanced forecast accuracy by 2% on significant Point of Sale/O&Ds leading to annual USD 100m improvement in revenue forecast.  
 
 ![Snake animation](https://github.com/G-S-LTU/G-S-LTU/blob/output/github-contribution-grid-snake.svg)
 
