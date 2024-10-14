@@ -48,8 +48,9 @@ My name is Gurprit (He/Him), and I'm a PMP-certified industry professional with 
  > Served as business lead of key decision support system (used by 1,500+ sales users) to measure and analyse their performance. Managed forecast quality and performance across 3 commercial regions; enhanced forecast accuracy by 2% on significant Point of Sale/O&Ds leading to annual USD 100m improvement in revenue forecast. Also engaged in conceptualization, development and implementation of an in-house yield forecasting system which prorates tickets on near real-time basis and is used to analyse revenue KPIs - a first for the company.  
  > 
 Education:
-![bitspilani-96](https://github.com/user-attachments/assets/f292f9a6-7764-476b-a423-8e1420e4f36b)
+[<img src="https://github.com/G-S-LTU/G-S-LTU/blob/main/Icons/bitspilani-96.png" width="48" title="BITS Pilani" />][6]
 
+![Snake animation](https://github.com/G-S-LTU/G-S-LTU/blob/output/github-contribution-grid-snake.svg)
 
 [1]: https://www.microsoft.com/en-us/power-platform/products/power-bi
 [2]: https://www.tableau.com/
@@ -62,9 +63,7 @@ Education:
 
 
 
-![image](https://github.com/user-attachments/assets/5f4e949d-3367-4095-a136-1a0ff0412477)
 
-![Snake animation](https://github.com/G-S-LTU/G-S-LTU/blob/output/github-contribution-grid-snake.svg)
 <!--
 **G-S-LTU/G-S-LTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
