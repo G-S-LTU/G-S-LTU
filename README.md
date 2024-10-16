@@ -1,6 +1,6 @@
 ### Hello there! 👋  
 
-My name is Gurprit (He/Him), and I'm a PMP-certified industry professional with over 12 years of combined experience across **Business Intelligence, Business Support and Performance Reporting**. I’m passionate about everything related to data ♥️  and my personal aspiration is to help solve business problems through data-driven decisions. Check out my Linkedin profile [here](https://www.linkedin.com/in/panesargurpreet/).
+My name is Gurprit (He/Him), and I'm a PMP-certified industry professional with over 12 years of combined experience across **Business Intelligence, Business Support and Performance Reporting**. I’m passionate about everything related to data ♥️  and my personal aspiration is to help solve business problems through data-driven decisions.
 
 [<img src="https://github.com/G-S-LTU/G-S-LTU/blob/main/Icons/power-bi-96.png" width="48" title="Proficient in Power BI" />][1]&nbsp;&nbsp;
 [<img src="https://github.com/G-S-LTU/G-S-LTU/blob/main/Icons/tableau-software-96.png" width="48" title="Proficient in Tableau" />][2]&nbsp;&nbsp;
@@ -46,8 +46,6 @@ My name is Gurprit (He/Him), and I'm a PMP-certified industry professional with 
  > **${\textsf {\color{white}Mar 2008 – Jun 2013}}$**  
  > **${\textsf {\color{white}Revenue System Analyst – Revenue Optimization}}$**  
  > Served as business lead of key decision support system (used by 1,500+ sales users) to measure and analyse their performance. Managed forecast quality and performance across 3 commercial regions; enhanced forecast accuracy by 2% on significant Point of Sale/O&Ds leading to annual USD 100m improvement in revenue forecast.  
-
-![Snake animation](https://github.com/G-S-LTU/G-S-LTU/blob/output/github-contribution-grid-snake.svg)
 
 [1]: https://www.microsoft.com/en-us/power-platform/products/power-bi
 [2]: https://www.tableau.com/
