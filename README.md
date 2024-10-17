@@ -16,15 +16,15 @@ My name is Gurprit (He/Him), and I'm a PMP-certified industry professional with 
   Yarra Trams - Melbourne AU  
  > **${\textsf {\color{white}Jun 2023 – Present}}$**  
  > **${\textsf {\color{white}Analytics and Insights Manager – Network Performance}}$**  
- > Leading team of analysts to drive, deploy and support analytics projects in Yarra Trams with focus on operational efficiencies.  
+ > Leading a team of analysts to drive, implement, and support analytics initiatives focused on operational efficiency within Yarra Trams.  
  >
  > **${\textsf {\color{white}Nov 2022 – May 2023}}$**  
  > **${\textsf {\color{white}Advisor – Network Performance}}$**  
- > Responsibilies included providing data-driven insights to business questions from senior executives using appropriate tools by leveraging inhouse and external data sources.
+ > Provided data-driven insights to senior executives using appropriate tools and leveraging internal and external data sources to address business questions.
  >  
  > **${\textsf {\color{white}Nov 2021 – Nov 2022}}$**  
  > **${\textsf {\color{white}Acting Manager – Network Performance}}$**  
- > Managed operational compliance to Franchise Agreement and Business Plan and reporting of operational performance.
+ > Ensured operational compliance with the Franchise Agreement and Business Plan and managed the reporting of operational performance.
  >
  > **${\textsf {\color{white}Dec 2019 – Nov 2021}}$**  
  > **${\textsf {\color{white}Advisor – Network Performance}}$**  
@@ -33,19 +33,19 @@ My name is Gurprit (He/Him), and I'm a PMP-certified industry professional with 
  Emirates Airline - Dubai AE  
  > **${\textsf {\color{white}Oct 2017 – Feb 2019}}$**  
  > **${\textsf {\color{white}Analytics Manager – Enterprise Analytics}}$**  
- > Responsible for servicing BI needs of Emirates Commercial (10+ departments) through delivery of strategic / tactical insights, self-service enablement and functional domain consultation.
+ > Served the BI needs of Emirates Commercial by delivering strategic and tactical insights, enabling self-service analytics, and providing functional domain consultation.
  > 
  > **${\textsf {\color{white}Jul 2014 – Sep 2017}}$**  
  > **${\textsf {\color{white}Business Analysis Manager (BI) – Business Intelligence and Commercial Solutions}}$**  
- > Served as central conduit between Commercial business units (10+ departments), technology teams and support teams to define, develop and implement next-generation commercial BI system at Emirates. Also managed the application decommissioning stream and day-to-day affairs of Data Governance Group to drive data definition consistency across Emirates Commercial division.
+ > Served as a liaison between Commercial business units, technology teams, and support teams to define, develop, and implement a next-generation commercial BI system at Emirates. Additionally, managed the application decommissioning process and oversaw the Data Governance Group to ensure data definition consistency within the Emirates Commercial division.
  > 
  > **${\textsf {\color{white}Jul 2013 – Jul 2014}}$**  
  > **${\textsf {\color{white}Commercial Business Analyst – Business Intelligence and Commercial Solutions}}$**  
- > Responsible for exploring and analysing data, and distribution of information to support decision-making of Emirates Commercial division. Other responsibilities included conduction of UAT validation, reporting documentation, providing BI tool training to department etc.
+ > Explored, analyzed, and distributed data to support decision-making within the Emirates Commercial division. Other responsibilities included conducting UAT validation, preparing reporting documentation, and providing BI tool training to departments.
  > 
  > **${\textsf {\color{white}Mar 2008 – Jun 2013}}$**  
  > **${\textsf {\color{white}Revenue System Analyst – Revenue Optimization}}$**  
- > Served as business lead of key decision support system (used by 1,500+ sales users) to measure and analyse their performance. Managed forecast quality and performance across 3 commercial regions; enhanced forecast accuracy by 2% on significant Point of Sale/O&Ds leading to annual USD 100m improvement in revenue forecast.  
+ > Served as the business lead for a critical decision support system used by over 1,500 sales users to measure and analyze their performance. Managed forecast quality and performance across three commercial regions, enhancing forecast accuracy by 2% for significant Point of Sale/O&Ds, resulting in an annual revenue forecast improvement of USD 100 million.  
 
 [1]: https://www.microsoft.com/en-us/power-platform/products/power-bi
 [2]: https://www.tableau.com/
